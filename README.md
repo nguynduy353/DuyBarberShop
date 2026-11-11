@@ -28,7 +28,7 @@ Hệ thống giúp khách hàng đặt lịch cắt tóc trực tuyến, nhân v
 ### Nhân viên
 - Xem lịch được phân công
 - Theo dõi công việc
-- Cập nhật trạng thái thực hiện dịch vụ
+
 
 ### Quản trị viên
 - Quản lý tài khoản
