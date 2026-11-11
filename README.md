@@ -50,4 +50,4 @@ Hệ thống giúp khách hàng đặt lịch cắt tóc trực tuyến, nhân v
 
 ## 5. Trạng thái dự án
 
-Đang thực hiện Tuần 1 - Khảo sát bài toán và xác định yêu cầu.
+Đã hoàn tất 
